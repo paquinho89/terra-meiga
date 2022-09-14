@@ -31,7 +31,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['terra-meiga.com', 'www.terra-meiga.com','terra-meiga.herokuapp.com']
 
 
-# Application definition
+# Application definition_
 
 INSTALLED_APPS = [
     'django.contrib.admin',
